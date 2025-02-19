@@ -8,26 +8,12 @@ The project involves:
 - **Automation Testing**: Writing and executing Cypress test scripts.
 - **Agile Methodology**: Sprint-based approach with iterative improvements.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Tech Stack](#tech-stack)
-- [Agile Methodology Implementation](#agile-methodology-implementation)
-- [Manual Testing](#manual-testing)
-- [Setup & Installation](#setup--installation)
-- [Test Execution](#test-execution)
-- [Test Cases Covered](#test-cases-covered)
-- [Bug Reporting](#bug-reporting)
-- [Reporting](#reporting)
-- [CI/CD Integration](#cicd-integration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Tech Stack
 - **Automation Tool:** Cypress
 - **Programming Language:** JavaScript
 - **Test Runner:** Cypress Test Runner
-- **Assertion Library:** Chai
-- **CI/CD:** GitHub Actions (or any other CI tool used)
+- **CI/CD:** GitHub Action
 
 ## Agile Methodology Implementation
 This project follows **Agile principles**:
